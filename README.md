@@ -3,7 +3,7 @@ How our selection of words impacts other people's emotion and unconsciousness? (
 
 When we read a text or web page, we receive a particular feeling or provocation of a thought that is caused by the text's opinion and emotion. Using the text mining method, we can derive so-called **sentiments** of the text.
 
-Here I use The gutenbergr package to illustrate the positive and negative sentiments of **The Brothers Karamazov**, the last novel by Russian author Fyodor Dostoevsky. As you can see from the graphs below, "**afraid**" and "**like**" were the most frequent negative and positive words used by Dostoevsky. 
+Here I use The gutenbergr package to illustrate the positive and negative sentiments of **The Brothers Karamazov**, the last novel by Russian author Fyodor Dostoevsky. As you can see from the graphs below, "**afraid**" and "**like**" were the most frequent negative and positive words which were used by Dostoevsky. 
 
 ![po](https://user-images.githubusercontent.com/89996099/141172971-23a48056-b256-4977-b35e-de444f40a184.jpeg)
 ![ne](https://user-images.githubusercontent.com/89996099/141172978-c2a16eff-ca10-4e49-b6c1-99cfbf81eb0b.jpeg)
